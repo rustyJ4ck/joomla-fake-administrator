@@ -19,3 +19,5 @@ allow ban bad ips with firewall (ipfw)
 /sbin/ipfw table 66 add 95.143.193.40   # 474     
 /sbin/ipfw table 66 add 46.0.12.2       # 309     
 ```
+
+[Описание на русском](http://www.skillz.ru/dev/php/article-joomla-fake-administrator-bruteforce.html)
